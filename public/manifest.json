@@ -3,7 +3,7 @@
   "short_name": "GymApp",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#ffffff",
+  "background_color": "#ff3131",
   "theme_color": "#000000",
   "description": "Gestión de rutinas y grupos musculares.",
   "icons": [
