@@ -7,7 +7,7 @@
   "theme_color": "#000000",
   "description": "Gestión de rutinas y grupos musculares.",
   "icons": [
-    { "src": "/gym192.png", "sizes": "192x192", "type": "image/png" },
-    { "src": "/gym512.png", "sizes": "512x512", "type": "image/png" }
+    { "src": "icons/gym192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/gym512.png", "sizes": "512x512", "type": "image/png" }
   ]
 }
