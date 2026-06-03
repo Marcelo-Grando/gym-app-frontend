@@ -32,7 +32,7 @@ export default function RootLayout({
         <link rel="manifest" href="/manifest.json" />
         <meta name="theme-color" content="#000000" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
-        <link rel="apple-touch-icon" href="/icons/gym192.png" />
+        <link rel="apple-touch-icon" href="/icons/gym512.png" />
       </head>
       <body className="min-h-full flex flex-col">
         {children}
