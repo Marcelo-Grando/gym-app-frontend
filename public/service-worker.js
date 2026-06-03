@@ -1,5 +1,11 @@
 const CACHE_NAME = "gymapp-cache-v1";
-const STATIC_ASSETS = ["/", "/manifest.json", "/gym192.png"];
+const STATIC_ASSETS = [
+  "/",
+  "/manifest.json",
+  "/icons/gym192.png",
+  "/icons/gym512.png"
+];
+
 
 self.addEventListener("install", (event) => {
   event.waitUntil(

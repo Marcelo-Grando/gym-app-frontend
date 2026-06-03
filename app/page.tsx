@@ -6,6 +6,8 @@ import { useEffect, useState } from "react";
 export default function Home() {
   const [muscleGroups, setMuscleGroups] = useState<any[]>([]);
 
+  console.log("TESTEO PA LOS PIBES Y PA LAS PIBAS")
+
   useEffect(() => {
     const getMuscleGroups = async () => {
       try {
